@@ -44,6 +44,12 @@ class ParentApp extends React.Component {
               </dd>
               </dl>
             </div>
+            <div>
+              <div>
+                <iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL" width="480" height="160" scrolling="no"
+                  style="border:none;"></iframe>
+              </div>
+            </div>
             <div className="col-md-6 h-100" id="right-column">
               <div id="parentbtn"  className="text-muted">
               Who are you?
